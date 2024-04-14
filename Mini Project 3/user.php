@@ -1,7 +1,6 @@
 <?php
-session_start(); // Memulai session
+session_start();
 
-// Kemudian lakukan pemeriksaan session atau operasi lainnya
 ?>
 
 
